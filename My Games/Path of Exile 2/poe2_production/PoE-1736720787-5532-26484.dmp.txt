@@ -1,0 +1,18 @@
+User
+
+Area
+MapSandspit_NoBoss
+Seed
+2413062612
+Build
+poe2_production tags/4.1.0f 262188
+OSBits
+64
+CPUBrand
+AMD Ryzen 7 3700X 8-Core Processor             
+ExtraData
+
+Driver
+32.0.15.6636
+Exception
+

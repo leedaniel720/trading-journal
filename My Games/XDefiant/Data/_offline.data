@@ -1,0 +1,14 @@
+{
+	[1] = {
+		arraysupport = "None",
+		data = {
+			false,
+		},
+		modification = "None",
+		name = "Persistence - Acknowledged Epilepsy Warning",
+		sharing = "Local",
+		storage = "Account",
+		typeName = "bool",
+		varId = #&9C26035963A0E7D00000255C893AD349,
+	},
+}

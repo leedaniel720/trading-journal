@@ -1,0 +1,12 @@
+User
+
+Area
+HideoutFelled
+Seed
+1
+Build
+poe2_production tags/4.1.0e 261626
+OSBits
+64
+CPUBrand
+AMD Ryzen 7 3700X 8-Core Processor             
